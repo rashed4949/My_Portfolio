@@ -19,7 +19,7 @@ export const profileData = [
     title: "Github",
     category: "Web Application",
     img: MobileImage2,
-    website: "https://amazing-destinations-ff4e3.web.app/",
+    website: "https://github.com/rashed4949",
   },
   {
     id: 3,
@@ -39,14 +39,14 @@ export const profileData = [
     id: 5,
     title: "Instagram",
     category: "Mobile Application",
-    website: "https://github.com/rashed4949",
+    website: "https://www.instagram.com",
     img: MobileImage1,
   },
   {
     id: 6,
     title: "Twitter",
     category: "Web Application",
-    website: "https://github.com/rashed4949",
+    website: "https://www.twitter.com",
     img: WebImage1,
   },
 ];
