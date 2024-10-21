@@ -13,7 +13,7 @@ const contacts = [
   },
   {
     id: 3,
-    name: "+4917655068346",
+    name: "+49-XXX-000-00",
     icon: <FiPhone />,
   },
 ];

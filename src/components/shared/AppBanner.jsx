@@ -26,7 +26,7 @@ const AppBanner = () => {
           }}
           className="font-general-semibold text-2xl lg:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
         >
-          Hi, I am Rashed
+          Hi, I am Rashedul
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -38,7 +38,7 @@ const AppBanner = () => {
           }}
           className="font-general-medium mt-4 text-lg md:text-xl lg:text-2xl xl:text-3xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
         >
-          A Frontend Developer & Digital Creator
+          A Software Developer & Digital Creator
         </motion.p>
         <motion.div
           initial={{ opacity: 0 }}
